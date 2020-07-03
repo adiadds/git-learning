@@ -1,3 +1,5 @@
 First line
 Local changes
 Third line
+Change on remote
+Third line
